@@ -29,11 +29,11 @@ Our "Pharmacy Management System" project aims to provide an efficient and user-f
    git clone https://github.com/your-username/pharmacy-management-system.git
    cd pharmacy-management-system
 
-2. **Set up XAMPP and import the project files into the htdocs directory.**
+2. Set up XAMPP and import the project files into the htdocs directory.
 
-3. **Create the necessary database and tables using phpMyAdmin.**
+3. Create the necessary database and tables using phpMyAdmin.
 
-4. **Access the system through a web browser by navigating to http://localhost/pharmacy-management-system.**
+4. Access the system through a web browser by navigating to http://localhost/pharmacy-management-system.
 
 ## Future Enhancements
 
